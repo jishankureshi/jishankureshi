@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Jishan Kureshi, i am here for to explore and learn
 <!--
 **jishankureshi/jishankureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
