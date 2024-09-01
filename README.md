@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Jishan Kureshi, i am here for to explore and learn
 <br>
-I am a RBU student 
+I am a RBU student in MCA(AI & ML ) Branch 
 <!--
 **jishankureshi/jishankureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
